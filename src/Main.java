@@ -3,6 +3,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
+
         //задание 1
         System.out.println("задание 1");
         int[] arr1 = new int[3];
